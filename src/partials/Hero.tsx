@@ -10,27 +10,29 @@ const Hero = () => (
     <HeroAvatar
       title={
         <>
-          Hi there, I'm <GradientText>Ixartz</GradientText> 👋
+          <GradientText>Sociedade Esportiva Palmeiras</GradientText>
         </>
       }
       description={
         <>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus{' '}
+          Seja bem vindo ao site do maior campeão do Brasil, o{' '}
           <a className="text-cyan-400 hover:underline" href="/">
-            malesuada
-          </a>{' '}
-          nisi tellus, non imperdiet nisi tempor at. Lorem ipsum dolor sit amet,{' '}
+            Palmeiras
+          </a>{'! '}
+          O nosso clube é muito tradicional na história do futebol brasileiro, 
+          contando com vários títulos dos mais importantes do Brasil e da América do Sul. Além disso, somos o time com maior número de{' '}
           <a className="text-cyan-400 hover:underline" href="/">
-            consectetur
+            títulos nacionais
           </a>{' '}
-          adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+          no Brasil, contendo 18 títulos totais a nível nacional. Sobre os títulos internacionais, vale destacar que o Palmeiras está 
+          entre os times brasileiros com mais títulos da Copa Libertadores, sendo tricampeão da competição.
         </>
       }
       avatar={
         <img
           className="h-80 w-64"
-          src="/assets/images/avatar.svg"
-          alt="Avatar image"
+          src="public/assets/images/porcoCompleto.jpg"
+          alt="Porco palmeiras"
           loading="lazy"
         />
       }
@@ -38,26 +40,26 @@ const Hero = () => (
         <>
           <a href="/">
             <HeroSocial
-              src="/assets/images/twitter-icon.png"
-              alt="Twitter icon"
+              src="public/assets/images/instagram.png"
+              alt="Instagram icon"
             />
           </a>
           <a href="/">
             <HeroSocial
-              src="/assets/images/facebook-icon.png"
-              alt="Facebook icon"
+              src="public/assets/images/x.png"
+              alt="X icon"
             />
           </a>
           <a href="/">
             <HeroSocial
-              src="/assets/images/linkedin-icon.png"
-              alt="Linkedin icon"
+              src="public/assets/images/whatsapp.png"
+              alt="Whatsapp icon"
             />
           </a>
           <a href="/">
             <HeroSocial
-              src="/assets/images/youtube-icon.png"
-              alt="Youtube icon"
+              src="public/assets/images/tiktok.webp"
+              alt="tiktok icon"
             />
           </a>
         </>

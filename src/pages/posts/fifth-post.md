@@ -1,10 +1,8 @@
 ---
 layout: '@/templates/BasePost.astro'
-title: 5th Lorem ipsum dolor sit
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi.
+title: Primeiro Campeão Mundial
+description: O Palmeiras foi campeão da Copa Rio de 1951, o primeiro campeonato mundial interclubes da história. O título foi em cima da Juventus-ITA. 
 pubDate: 2020-02-05T00:00:00Z
-imgSrc: '/assets/images/image-post2.jpeg'
-imgAlt: 'Image post 2'
+imgSrc: '/public/assets/images/mundial.webp'
+imgAlt: 'Mundial'
 ---
-
-Full typography example at [this page](../sixth-post/).

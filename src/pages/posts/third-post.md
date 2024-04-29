@@ -1,10 +1,8 @@
 ---
 layout: '@/templates/BasePost.astro'
-title: 3rd Lorem ipsum dolor sit
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi.
+title: 26 Títulos Paulistas
+description: O Palmeiras tem 26 títulos do Campeonato Paulista, sendo o segundo time do estado de São Paulo com mais títulos na competição. Além disso, é o último tricampeão paulista.
 pubDate: 2020-02-03T00:00:00Z
-imgSrc: '/assets/images/image-post4.jpeg'
-imgAlt: 'Image post 4'
+imgSrc: '/public/assets/images/paulista.jpeg'
+imgAlt: 'Paulista'
 ---
-
-Full typography example at [this page](../sixth-post/).

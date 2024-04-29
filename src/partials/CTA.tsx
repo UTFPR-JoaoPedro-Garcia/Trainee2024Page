@@ -9,11 +9,12 @@ const CTA = () => (
     <Newsletter
       title={
         <>
-          Subscribe to my <GradientText>Newsletters</GradientText>
+          Seja <GradientText>Avanti!</GradientText>
         </>
       }
-      description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero
-          esse non molestias eos excepturi, inventore atque cupiditate."
+      description="Ser Avanti é fazer parte de um Palmeiras protagonista em campo e equilibrado fora dele, 
+      já que 100% da renda do programa vai para o futebol do clube. 
+      O amor pelo Verdão é o que nos une e o engajamento da nossa torcida é fundamental para que o clube seja cada vez mais imponente!"
     />
   </Section>
 );
